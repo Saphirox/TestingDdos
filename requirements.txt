@@ -1,0 +1,4 @@
+statsd
+flask
+pymongo
+elasticsearch==7.17.0
